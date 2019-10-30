@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.php linguist-language=PHP
+*.js linguist-language=PHP
+*.css linguist-language=PHP
+*.html linguist-language=PHP
