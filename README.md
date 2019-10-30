@@ -84,3 +84,6 @@
 ![](https://raw.githubusercontent.com/MTsung/SmartExam/master/%E6%96%87%E4%BB%B6/PPT/%E5%9C%96%E7%89%87/cbhan-2zxew-013.png)
 ![](https://raw.githubusercontent.com/MTsung/SmartExam/master/%E6%96%87%E4%BB%B6/PPT/%E5%9C%96%E7%89%87/cbhan-2zxew-014.png)
 ![](https://raw.githubusercontent.com/MTsung/SmartExam/master/%E6%96%87%E4%BB%B6/PPT/%E5%9C%96%E7%89%87/cbhan-2zxew-015.png)
+
+## 說明
+因原始碼凌亂不堪且有資安漏洞，故只放上文件及成果圖
