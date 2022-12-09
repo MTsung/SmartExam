@@ -1,6 +1,6 @@
 # SmartExam - 一個支援程式設計的線上測驗平台
 
-* [https://smartexam.csie.nptu.edu.tw/](https://smartexam.csie.nptu.edu.tw/) (於 2022/10 被新系統取代)
+* [https://smartexam.csie.nptu.edu.tw/](https://smartexam.csie.nptu.edu.tw/) (於 2022/10 被新系統取代：[party](https://party.nptu.edu.tw/))
 * 屏東大學 資訊工程學系 106學年度專題實作  
 * 2017年資訊學院專題競賽軟體 系統與雲端應用組 **第一名**
 * 支援 C 、 C++ 、 JAVA
